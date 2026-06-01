@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Sakshi Yadav",
+        "age": 21,
+        "email": "sakku@gmail.com",
+        "pin": 2255,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Prachi yadav",
+        "age": 23,
+        "email": "guniguni@gmail.com",
+        "pin": 9211,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Sakshi yadav",
+        "age": 21,
+        "email": "sakku@gmail.com",
+        "pin": 4545,
+        "accountNo.": "4fa0I^3",
+        "balance": 0
+    },
+    {
+        "name": "Sakshi yadav",
+        "age": 21,
+        "email": "sakku@gmail.com",
+        "pin": 4557,
+        "accountNo.": "^741ppy",
+        "balance": 1000
+    }
+]
